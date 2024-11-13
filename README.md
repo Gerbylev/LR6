@@ -30,3 +30,14 @@
 ![5.png](screenshots%2Fimg_4.png)
 ![6.png](screenshots%2Fimg_5.png)
 
+### Пункт 9
+Создаём ветку, меняем mergefile и комитим изменения.
+Возвращаемся на ветку master меняем mergefile и комитим изменения.
+Выполняем слияние и исправляем конфликт.
+Конфликт решаем в блокноте.
+
+![7.png](screenshots%2Fimg_6.png)
+![8.png](screenshots%2Fimg_7.png)
+![9.png](screenshots%2Fimg_8.png)
+![10.png](screenshots%2Fimg_9.png)
+
